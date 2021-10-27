@@ -3,12 +3,12 @@ entries:
   torque-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2021-10-27T17:37:40.1383326+03:00"
+    created: "2021-10-27T17:46:27.9346602+03:00"
     description: A Helm chart for Torque Kubernetes agent
-    digest: ff636e9274cc039c761976d9acb8eba0877de6b18df22b7ecad82ecd21482e6d
+    digest: 4bb91122ceded38486536131a3872d7060da17849842683c3a7e42458b0f9429
     name: torque-agent
     type: application
     urls:
-    - torque-agent-0.1.0.tgz
+    - https://qualitorque.github.io/helm-charts/torque-agent-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-27T17:37:40.1347086+03:00"
+generated: "2021-10-27T17:46:27.9300503+03:00"
